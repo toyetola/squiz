@@ -1,0 +1,2 @@
+# squiz
+Educational software
